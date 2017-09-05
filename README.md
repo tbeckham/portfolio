@@ -1,2 +1,2 @@
-# portfolio
-This is my professional portfolio
+# Tony Beckham's portfolio
+This is my professional portfolio. It uses AWS and ReactJS
