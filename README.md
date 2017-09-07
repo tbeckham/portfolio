@@ -1,4 +1,4 @@
-# Tony Beckham's portfolio
+# Tony Beckham's Portfolio
 This is my professional portfolio. It uses AWS and ReactJS
 
 ## Technologies Used
@@ -14,7 +14,11 @@ This is my professional portfolio. It uses AWS and ReactJS
 * Atom
 * Babel
 * Brew
+* CSS
+* Font Awesome
 * Git and github
+* Google fonts
+* HTML
 * Jest
 * npm
 * ReactJS

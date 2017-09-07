@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# zip artifacts
+*.zip
+
+# OSX GUI settings
+.DS_Store
