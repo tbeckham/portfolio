@@ -5,8 +5,8 @@ import ExampleWork from './example-work';
 const myWork = [
   {
     'title': "Portfolio",
-    'href': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'href': "https://github.com/tbeckham/portfolio",
+    'desc': "This is my professional portfolio. It is serverless and uses AWS and ReactJS. You are viewing it now. Click on the 'CHECK IT OUT' button to see the source on Github.",
     'image': {
       'desc': "A serverless portfolio",
       'src': "images/3wolfmoon-download.jpg",
@@ -15,8 +15,8 @@ const myWork = [
   },
   {
     'title': "Wildrydes",
-    'href': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'href': "https://wildrydes.tonybeckham.com",
+    'desc': "A Web Application with Amazon S3, Lambda, DynamoDB and API Gateway",
     'image': {
       'desc': "A serverless Webapp",
       'src': "images/wildrydes-homepage.png",
@@ -25,8 +25,8 @@ const myWork = [
   },
   {
     'title': "eucalyptus-cookbook",
-    'href': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'href': "https://github.com/tbeckham/eucalyptus-cookbook",
+    'desc': "This cookbook installs and configures Eucalyptus on CentOS physical and virtual machines. Source and package installations are supported.",
     'image': {
       'desc': "Chef cookbook for deploying and configuring Eucalyptus",
       'src': "images/chef-logo.png",
@@ -35,8 +35,8 @@ const myWork = [
   },
   {
     'title': "awesomeProject",
-    'href': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'href': "https://github.com/tbeckham/awesomeProject",
+    'desc': "A message queue client and server using zeromq and go",
     'image': {
       'desc': "Messing with zeromq",
       'src': "images/zmq-octogon.jpg",
@@ -45,8 +45,8 @@ const myWork = [
   },
   {
     'title': "N4j",
-    'href': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'href': "https://github.com/tbeckham/n4j",
+    'desc': "A java/groovy test framework for building and running tests against AWS compatible clouds.",
     'image': {
       'desc': "An AWS java test framework",
       'src': "images/example3.png",
