@@ -5,6 +5,7 @@ This is my professional portfolio. It uses AWS and ReactJS
 
 * AWS
   * CloudFront
+  * CloudWatch
   * CodeBuild
   * CodePipeline
   * Lambda
